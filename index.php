@@ -24,7 +24,7 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Travolutionary Tools Portal</h1>
+								<h1>CS Tools Portal</h1>
 								<p>A fully responsive site unifes all Travolutionary CS tools<br />
 									<p>Choose a tool below:<br />
 							</div>
