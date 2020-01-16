@@ -31,10 +31,10 @@
 						</div>
 						<nav>
 							<ul>
-								<strong><li><a href="http://localworks.herokuapp.com" target="_blank" rel="noopener noreferrer">Local-Works</a></li></strong>
-								<strong><li><a href="http://error-inspector.herokuapp.com/" target="_blank" rel="noopener noreferrer">Error-Inpsector</a></li></strong>
+								<strong><li><a href="http://localworks.herokuapp.com" target="_blank" rel="noopener noreferrer">Location-Search</a></li></strong>
+								<strong><li><a href="http://localworks.herokuapp.com/healthcheck.php" target="_blank" rel="noopener noreferrer">Health-Check</a></li></strong>
 							<strong>	<li><a href="#">CXL-Works</a></li></strong>
-								<strong><li><a href="#">Soon</a></li></strong>
+								<strong><li><a href="http://error-inspector.herokuapp.com/" target="_blank" rel="noopener noreferrer">Error-Inpsector</a></li></strong>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
