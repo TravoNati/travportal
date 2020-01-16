@@ -18,9 +18,15 @@
 			<div id="wrapper">
 
 				<!-- Header -->
+				<style>
+ .test {
+div{margin-top:10px;}
+  }
+				</style>
 					<header id="header">
-						<div class="logo">
-							<span class="icon fa-gem"></span>
+						<div class="l">
+						
+							<img src="img.png" height="67.5" width="91.5">
 						</div>
 						<div class="content">
 							<div class="inner">
