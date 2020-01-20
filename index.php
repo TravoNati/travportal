@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<div class="logo">
+						<div class="">
 							<img src="img.png" height="67.5" width="91.5">
 						</div>
 						<div class="content">
