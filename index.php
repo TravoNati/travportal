@@ -18,15 +18,9 @@
 			<div id="wrapper">
 
 				<!-- Header -->
-				<style>
- .test {
-div{margin-top:10px;}
-  }
-				</style>
 					<header id="header">
-						<div class="l">
-						
-							<img src="img.png" height="67.5" width="91.5">
+						<div class="logo">
+							<span class="icon fa-gem"></span>
 						</div>
 						<div class="content">
 							<div class="inner">
@@ -39,7 +33,7 @@ div{margin-top:10px;}
 							<ul>
 								<strong><li><a href="http://localworks.herokuapp.com" target="_blank" rel="noopener noreferrer">Location-Search</a></li></strong>
 								<strong><li><a href="http://localworks.herokuapp.com/healthcheck.php" target="_blank" rel="noopener noreferrer">Health-Check</a></li></strong>
-							<strong>	<li><a href="#">CXL-Works</a></li></strong>
+								<strong><li><a href="http://cxlworks.herokuapp.com/" target="_blank" rel="noopener noreferrer">Price-Change</a></li></strong>
 								<strong><li><a href="http://error-inspector.herokuapp.com/" target="_blank" rel="noopener noreferrer">Error-Inpsector</a></li></strong>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
